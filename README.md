@@ -1,15 +1,20 @@
 # Resume Screening AI
 
-AI-powered resume screening system using NLP and Machine Learning.
+AI-powered resume classification system using NLP and Machine Learning.
 
 ## Features
-- Resume classification
-- Skill extraction
-- Job matching system
-- Streamlit web app
+- Resume Classification
+- Skill Extraction
+- Missing Skills Detection
+- Gradio Web Interface
 
 ## Tech Stack
-Python, Scikit-learn, NLP, Streamlit
+- Python
+- Scikit-learn
+- TF-IDF
+- NLP
+- Gradio
+- Hugging Face
 
 ## Model
-TF-IDF + SVM (99% accuracy)
+Linear SVM
